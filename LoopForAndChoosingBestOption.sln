@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopForAndChoosingBestOption", "LoopForAndChoosingBestOption\LoopForAndChoosingBestOption.csproj", "{B0FEDE0D-09AF-4B10-9C2F-E5BA09AABBD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0FEDE0D-09AF-4B10-9C2F-E5BA09AABBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FEDE0D-09AF-4B10-9C2F-E5BA09AABBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FEDE0D-09AF-4B10-9C2F-E5BA09AABBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FEDE0D-09AF-4B10-9C2F-E5BA09AABBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BE1D950-CCEC-414F-B44F-1F8C9E4B4211}
+	EndGlobalSection
+EndGlobal
